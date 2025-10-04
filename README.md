@@ -15,6 +15,15 @@ Sistema simples de gestão de produtos feito em **Python puro**, desenvolvido pa
 ✅ Atualização automática de produtos duplicados  
 
 ---
+Sobre a Autora
 
-## 🗂️ Estrutura do Projeto
+Gisele Ribeiro
+💼 Estudante de Programação
+💡 Focada em desenvolvimento backend, sistemas empresariais e boas práticas de código.
+
+📧 Email: gisele.ribeiro1105@gmail.com
+
+🔗 LinkedIn: linkedin.com/in/giseleribeiro
+
+💻 GitHub: github.com/GiseleRibeiro11
 
